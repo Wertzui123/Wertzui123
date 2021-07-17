@@ -5,5 +5,6 @@ I'm a german PHP and C# developer and the owner of the WertzuiGames MCBE server 
 <br>🔭 I’m currently working on _Many things_
 <br><br>What you will find on my Github profile:
 * Many <a href="https://pmmp.io/">PocketMine-MP</a> plugins
+* <a href="https://github.com/Wertzui123/AppBundle">AppBundle</a> - add resources to your program after its compilation
 * Forks of other repos (mostly for pull requests)
 * More coming soon 😉
