@@ -1,8 +1,8 @@
 ### Hi, I'm Wertzui123 :wave:
 
-I am a dedicated software developer and programmer from Germany. 🇩🇪
+I am a dedicated software developer, hobby musician and tech enthusiast from Germany. 🇩🇪
 <br>While I mostly use PHP, C#, and V, I also have some experience in Java, JavaScript, Python, C, and a few other languages.
-<br>I'm also owner and head developer of the <a href="https://wertzuigames.de">WertzuiGames</a> Minecraft: Bedrock Edition server network.
+<br>I'm also owner and head developer of the <a href="https://wertzuigames.net">WertzuiGames</a> Minecraft: Bedrock Edition server network.
 <br><br>:mailbox: How to reach me: you can contact me on <a href="https://discord.com">Discord</a> (Wertzui123#1317) or send an e-mail to wertzui123@gmx.net
 <br>:telescope: I’m currently working on _many things_
 <br><br>What you will find on my Github profile:
