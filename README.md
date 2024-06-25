@@ -9,6 +9,7 @@ I am a dedicated software developer, hobby musician and tech enthusiast from Ger
 * Many <a href="https://pmmp.io/">PocketMine-MP</a> plugins
 * <a href="https://github.com/Wertzui123/PMMP5Converter">PMMP5Converter</a> - automatically convert your PocketMine-MP 4 plugins to API 5
 * <a href="https://github.com/Wertzui123/AppBundle">AppBundle</a> - add resources to your program after its compilation
+* <a href="https://github.com/Wertzui123/icylib">icylib</a> - a simple CPU-based image processing and manipulation library 
 * <a href="https://github.com/Wertzui123/TLSe">TLSe</a> - a V wrapper around the <a href="https://github.com/eduardsui/tlse">TLSe C library</a> implementing the Transport Layer Security protocol
 * <a href="https://github.com/Wertzui123/HashMap">HashMap</a> - a generic hashmap implementation written in V that allows any kind of key-value-pairs 
 * <a href="https://github.com/Wertzui123/actions-vms">actions-vms</a> - Short-living VMs abusing Github Actions for testing all kinds of things 
