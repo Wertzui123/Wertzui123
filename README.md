@@ -12,6 +12,8 @@ I am a dedicated software developer, hobby musician and tech enthusiast from Ger
 * <a href="https://github.com/Wertzui123/icylib">icylib</a> - a simple CPU-based image processing and manipulation library
 * <a href="https://github.com/Wertzui123/TLSe">TLSe</a> - a V wrapper around the <a href="https://github.com/eduardsui/tlse">TLSe C library</a> implementing the Transport Layer Security protocol
 * <a href="https://github.com/Wertzui123/HashMap">HashMap</a> - a generic hashmap implementation written in V that allows any kind of key-value-pairs
+* <a href="https://github.com/Wertzui123/echttp">ECHTTP</a> - a simple single-file HTTP(S) client library written in C
+* <a href="https://github.com/Wertzui123/cwsc">CWSC</a> - a bare but useful single-file WebSocket client library written in C
 * <a href="https://github.com/Wertzui123/actions-vms">actions-vms</a> - Short-living VMs abusing Github Actions for testing all kinds of things
 * A few more utility scripts
 * Forks of other repos (mostly for pull requests)
