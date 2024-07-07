@@ -1,20 +1,27 @@
 ### Hi, I'm Wertzui123 :wave:
 
-I am a dedicated software developer, hobby musician and tech enthusiast from Germany. 🇩🇪
-<br>While I mostly use PHP, C#, and V, I also have some experience in Java, JavaScript, Python, C, and a few other languages.
-<br>I'm also owner and head developer of the <a href="https://wertzuigames.net">WertzuiGames</a> Minecraft: Bedrock Edition server network.
-<br><br>:mailbox: How to reach me: you can contact me on <a href="https://discord.com">Discord</a> (Wertzui123#1317) or send an e-mail to wertzui123@gmx.net
-<br>:telescope: I’m currently working on _many things_
-<br><br>What you will find on my Github profile:
-* Many <a href="https://pmmp.io/">PocketMine-MP</a> plugins
-* <a href="https://github.com/Wertzui123/PMMP5Converter">PMMP5Converter</a> - automatically convert your PocketMine-MP 4 plugins to API 5
-* <a href="https://github.com/Wertzui123/AppBundle">AppBundle</a> - add resources to your program after its compilation
-* <a href="https://github.com/Wertzui123/icylib">icylib</a> - a simple CPU-based image processing and manipulation library
-* <a href="https://github.com/Wertzui123/TLSe">TLSe</a> - a V wrapper around the <a href="https://github.com/eduardsui/tlse">TLSe C library</a> implementing the Transport Layer Security protocol
-* <a href="https://github.com/Wertzui123/HashMap">HashMap</a> - a generic hashmap implementation written in V that allows any kind of key-value-pairs
-* <a href="https://github.com/Wertzui123/echttp">ECHTTP</a> - a simple single-file HTTP(S) client library written in C
-* <a href="https://github.com/Wertzui123/cwsc">CWSC</a> - a bare but useful single-file WebSocket client library written in C
-* <a href="https://github.com/Wertzui123/actions-vms">actions-vms</a> - Short-living VMs abusing Github Actions for testing all kinds of things
+I am a dedicated software developer and tech enthusiast[^1] from Germany. 🇩🇪
+<br>My biggest project by far is [ASPL](https://github.com/aspl-lang/aspl), a simple yet powerful modern cross-platform programming language.
+
+Besides that, I mostly use PHP, C#, and V, but also have some experience in C, JavaScript, Java, Python, and a few other languages.
+<br>I'm also founder and head developer of the [WertzuiGames](https://wertzuigames.net) Minecraft: Bedrock Edition server network.
+
+:mailbox: How to reach me: you can contact me on [Discord](https://discord.com) (@wertzui123) or send an e-mail to wertzui123@gmx.net
+<br>:telescope: I’m currently working on: _many things_ (probably including ASPL :sweat_smile:)
+
+What you will find on my Github profile:
+* Many [PocketMine-MP](https://pmmp.io/) plugins, including hits like [BedrockClans](https://github.com/Wertzui123/BedrockClans), [CB-Heads](https://github.com/Wertzui123/CB-Heads) and [Rewards](https://github.com/Wertzui123/Rewards)
+* [Libellus](https://github.com/Wertzui123/Libellus) - an open-source note-taking app for all your devices
+* [icylib](https://github.com/Wertzui123/icylib) - a simple CPU-based image processing and manipulation library
+* [PMMP5Converter](https://github.com/Wertzui123/PMMP5Converter) - automatically convert your PocketMine-MP 4 plugins to API 5
+* [AppBundle](https://github.com/Wertzui123/AppBundle) - add resources to your program after its compilation
+* [TLSe](https://github.com/Wertzui123/TLSe) - a V wrapper around the [TLSe C library](https://github.com/eduardsui/tlse) implementing the Transport Layer Security protocol
+* [ECHTTP](https://github.com/Wertzui123/echttp) - a simple single-file HTTP(S) client library written in C
+* [CWSC](https://github.com/Wertzui123/cwsc) - a bare but useful single-file WebSocket client library written in C
+* [HashMap](https://github.com/Wertzui123/HashMap) - a generic hashmap implementation written in V that allows any kind of key-value-pairs
+* [actions-vms](https://github.com/Wertzui123/actions-vms) - Short-living VMs abusing Github Actions for testing all kinds of things
 * A few more utility scripts
 * Forks of other repos (mostly for pull requests)
 * More coming soon :wink:
+
+[^1]: Well, software development is just one of the many things I spend my time on, but this Github profile is dedicated solely to my computer-related stuff.
