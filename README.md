@@ -19,6 +19,6 @@ Other notable projects of mine here on Github include:
 * [ECHTTP](https://github.com/Wertzui123/echttp) - a simple single-file HTTP(S) client library written in C
 * [CWSC](https://github.com/Wertzui123/cwsc) - a bare but useful single-file WebSocket client library written in C
 * [HashMap](https://github.com/Wertzui123/HashMap) - a generic hashmap implementation written in V that allows any kind of key-value-pairs
-* [actions-vms](https://github.com/Wertzui123/actions-vms) - Short-living VMs abusing Github Actions for testing all kinds of things
+* [actions-vms](https://github.com/Wertzui123/actions-vms) - short-living VMs abusing Github Actions for testing all kinds of things
 
 [^1]: Well, software development is just one of the many things I spend my time on, but this Github profile is dedicated solely to my computer-related stuff.
